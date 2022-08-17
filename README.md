@@ -1,5 +1,5 @@
-### How to use the space-repetition plug-in in Obsidian for "Banki"
-#### a simple guide
+## How to use the space-repetition plug-in in Obsidian for "Banki"
+### a simple guide
 
 ###### 1.) Make sure you download the plugin: 
 
