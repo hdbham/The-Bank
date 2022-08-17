@@ -6,15 +6,15 @@
 You can easily install the plugin from Obsidian's community plugin section in the Obsidian app (Search `Spaced Repetition`).
 
 ###### 1.) Make sure this setting is enabled:
+![image](https://user-images.githubusercontent.com/13264116/185024465-980e2321-e880-4b9c-b310-2a64581b1d7a.png)
 
-			![[Pasted image 20220816201434.png]]
 
 ###### 2.) Once you have an answer for your Banki Replace `!!` with `?? `to enable it in your deck
 
 For example:
-![[Pasted image 20220816202544.png]]
-![Pasted image 20220816202544.png](app://local/home/hb/MyVault/MyVault/Attachments/Pasted%20image%2020220816202544.png?1660703144674)
+![image](https://user-images.githubusercontent.com/13264116/185024503-b35b4bb2-dd79-4699-a90b-8f89663a5742.png)
+
 
 ###### 3.) To view your decks use this button:
 
-![[Pasted image 20220816201802.png]]
+![image](https://user-images.githubusercontent.com/13264116/185024533-8fb77b3c-6214-4dec-9425-f9b49e896877.png)
