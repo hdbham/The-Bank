@@ -12,6 +12,7 @@ You can easily install the plugin from Obsidian's community plugin section in th
 ###### 2.) Once you have an answer for your Banki Replace `!!` with `?? `to enable it in your deck
 
 For example:
+
 ![image](https://user-images.githubusercontent.com/13264116/185024503-b35b4bb2-dd79-4699-a90b-8f89663a5742.png)
 
 
